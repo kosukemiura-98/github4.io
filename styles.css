@@ -90,7 +90,7 @@ img {
 }
 
 #home {
-  background-image: url(../images/main-bg.jpg);
+  background-image: url(main-bg.jpg);
   min-height: 100vh;
 }
 
@@ -99,7 +99,7 @@ img {
 }
 
 #news {
-  background-image: url(../images/news-bg.jpg);
+  background-image: url(news-bg.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -210,7 +210,7 @@ aside p {
 }
 
 #menu {
-  background-image: url(../images/menu-bg.jpg);
+  background-image: url(menu-bg.jpg);
   min-height: 100vh;
 }
 
@@ -237,7 +237,7 @@ aside p {
 }
 
 #contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(contact-bg.jpg);
   min-height: 100vh;
 }
 
